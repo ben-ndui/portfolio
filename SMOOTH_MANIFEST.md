@@ -2,24 +2,25 @@
 
 ## Projet
 - Nom: portfolio
-- Type: web / mobile (Flutter)
-- Client: Smooth & Design (interne — portfolio personnel)
-- Statut: archive
+- Description: My Flutter Portfolio
+- Type: web
+- Client: Smooth & Design
+- Statut: actif
 
 ## Stack
-- Frontend: Flutter / Dart
-- Backend: N/A
-- Auth: N/A
-- Base de données: N/A
-- Autres: N/A
+- Frontend: —
+- Backend: —
+- Auth: —
+- Base de données: —
+- Autres: —
 
 ## Features implémentées
-- Portfolio personnel Flutter (vitrine des réalisations)
+- (aucune feature détectée — repo minimal ou vide)
 
 ## Patterns notables
-- Architecture: Projet minimaliste, seul le README est dans le repo (code source non publié)
-- Collections Firestore / tables Supabase: Aucune
-- Conventions de nommage: N/A
+- Architecture: —
+- Collections Firestore / tables Supabase: —
+- Conventions de nommage: snake_case
 
 ## Réutilisabilité
-- Snippets clés: Template de portfolio Flutter réutilisable comme base pour d'autres vitrines client
+- Aucun snippet identifié
